@@ -38,7 +38,7 @@ Start with **$10,000,000**, purchase aircraft, create routes between airports, a
 4. Run the game:
 
 ```bash
-python tycoonmain.py
+python main.py.py
 ```
 
 5. Follow the instructions in the game menu.
